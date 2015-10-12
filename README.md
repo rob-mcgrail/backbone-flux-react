@@ -12,3 +12,10 @@ Read more about FLUX over at [Facebook Flux](http://facebook.github.io/flux/) an
 
 ### Minify the code, ready for production
 * Run `gulp deploy`
+
+## TODO
+
+* Routing
+* Remote API examples
+* Testing template
+* SASS/autoprefix pipeline
